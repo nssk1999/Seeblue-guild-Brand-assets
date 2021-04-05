@@ -30,7 +30,7 @@ A Brand for the fictional SeeBlue company, created as part of MLH: Local Hack Da
 
 <a href="https://www.canva.com/design/DAEaxyuCz-0/isag5hKKFeA8j1PDTu8B_g/view?utm_content=DAEaxyuCz-0&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">Use as template</a> (external link to Canva)
 
-<img src="SeeBlue-postcard/SeeBlue-postcard.jpg" width="400" alt="Local Dominate Day: Dominate - Postcard - in situ" />
+<img src="SeeBlue-postcard/SeeBlue-postcard.jpg" width="400" alt="SeeBlue Member – Postcard" />
 
 ---
 
